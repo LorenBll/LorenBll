@@ -1,8 +1,12 @@
 <h2 align="center">Hello there 👋!</h2>
 <p align="left">I am DarkMatt3r06, a passionate IT student constantly improving!</p>
 
+###
+
 <h2 align="center">About Me</h2>
 <p align="left">I started developing with Visual Basic in 2020 and fromt here I haven't stopped learning. A lot has changed but I still stand here, unfazed.</p>
+
+###
 
 <h2 align="center">My Languages</h2>
 <div align="center">
