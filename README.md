@@ -4,7 +4,7 @@
 ###
 
 <h2 align="center">About Me</h2>
-<p align="left">I started developing with Visual Basic in 2020 and from here I haven't stopped learning. A lot has changed but I still stand here, unfazed.</p>
+<p align="left">I started developing with Visual Basic in 2020 and from there I haven't stopped learning. A lot has changed but I still stand here, unfazed.</p>
 
 ###
 
