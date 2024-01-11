@@ -24,7 +24,7 @@
 <h2 align="center">My Stats</h2>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkMatt3r06&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatt3r06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkMatt3r06&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatt3r06&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="200" />
 
 </div>
