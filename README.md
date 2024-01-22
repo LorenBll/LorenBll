@@ -13,9 +13,9 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="150" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="150" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="150" alt="Java"/>
   <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="150" alt="Assembly Z80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="150" alt="HTML 5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="150" alt="Java"/>
   
 </div>
 
