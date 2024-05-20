@@ -1,5 +1,5 @@
 <h2 align="center">Hello there 👋!</h2>
-<p align="left">I am DarkMatt3r06, a passionate IT student constantly improving!</p>
+<p align="left">I am Lorenzo, a passionate IT student constantly improving!</p>
 
 ###
 
