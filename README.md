@@ -26,3 +26,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LorenBll&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </div>
+
+</br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LorenBll&color=red"/>
+</div>
+
+</br>
+
