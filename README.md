@@ -1,3 +1,5 @@
+<img width="1000" src="github-snake.svg" alt="snake"/>
+
 <h2 align="center">Hello there 👋!</h2>
 <p align="left">I am Lorenzo, a passionate IT student constantly improving!</p>
 
@@ -32,6 +34,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LorenBll&color=red"/>
 </div>
-
-</br>
-
