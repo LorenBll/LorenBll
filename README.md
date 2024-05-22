@@ -5,13 +5,13 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center" , >About Me</h2>
 <p align="left">I started developing with Microsoft's Visual Basic Scripting language in 2020 and from there I haven't stopped learning. A lot has changed but I still stand here, unfazed.</p>
 
 ###
 
 <h2 align="center">My Skills/Languages</h2>
-<div align="center">
+<div align="center" text-align="justify" text-justify="inter-word">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="150" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="150" alt="C"/>
