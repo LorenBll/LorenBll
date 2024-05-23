@@ -12,8 +12,6 @@
 
 ###
 
-</br>
-
 <h2 align="center">My Skills/Languages</h2>
 <div align="center" text-align="justify" text-justify="inter-word">
   
@@ -26,8 +24,6 @@
 </div>
 
 ###
-
-</br>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
