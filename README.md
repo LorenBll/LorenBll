@@ -1,14 +1,18 @@
 <img width="1000" src="github-snake.svg" alt="snake"/>
 
-<h2 align="center">Hello there 👋!</h2>
-<p align="left">I am Lorenzo, a passionate IT student constantly improving!</p>
+<h2 align="center">Who Am I</h2>
+
+<div align="center">
+  <label style="display:block; text-align:center;">
+    Hi there! I'm a passionate developer who embarked on my coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that moment, my curiosity and enthusiasm for programming have been unstoppable.<br><br>
+    My early experience with VBScript laid a strong foundation, allowing me to quickly pick up new languages and frameworks. Over the years, I've expanded my skills to include Python, C, Java, and other various web development technologies. I genuinely believe that my relentless pursuit of knowledge and improvement sets me apart from others in the field.<br><br>
+    I thrive on solving complex problems and continuously seek out challenging projects to enhance my skills. Whatever the project may be, I bring dedication, creativity, and a keen eye for detail to every task: perfectionism may be my weakest point, but it surely brings in awesome results.
+  </label>
+</div>
 
 ###
 
-<h2 align="center" , >About Me</h2>
-<p align="left">I started developing with Microsoft's Visual Basic Scripting language in 2020 and from there I haven't stopped learning. A lot has changed but I still stand here, unfazed.</p>
-
-###
+</br>
 
 <h2 align="center">My Skills/Languages</h2>
 <div align="center" text-align="justify" text-justify="inter-word">
@@ -22,6 +26,8 @@
 </div>
 
 ###
+
+</br>
 
 <h2 align="center">My Stats</h2>
 <div align="center">
