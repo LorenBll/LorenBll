@@ -4,7 +4,7 @@
 
 <div align="center">
   <label style="display:block; text-align:center;">
-    Hi there! I'm a passionate developer who embarked on my coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that moment, my curiosity and enthusiasm for programming have been unstoppable.<br><br>
+    Hi there! I'm Lorenzo, a passionate developer who embarked on his coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that moment, my curiosity and enthusiasm for programming have been unstoppable.<br><br>
     My early experience with VBScript laid a strong foundation, allowing me to quickly pick up new languages and frameworks. Over the years, I've expanded my skills to include Python, C, Java, and other various development technologies. I genuinely believe that my relentless pursuit of knowledge and improvement sets me apart from others in the field.<br><br>
     I thrive on solving complex problems and continuously seek out challenging projects to enhance my skills. Whatever the project may be, I bring dedication, creativity, and a keen eye for detail to every task : perfectionism may be my weakest point, but it surely brings in awesome results.
   </label>
