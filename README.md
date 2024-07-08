@@ -2,11 +2,13 @@
 
 <h2 align="center">Who Am I</h2>
 
-<div align="center">
-  <label style="display:block; text-align:center;">
-    Hi there! I'm Lorenzo, a passionate developer who embarked on his coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that moment, my curiosity and enthusiasm for programming have been unstoppable.<br><br>
-    My early experience with VBScript laid a strong foundation, allowing me to quickly pick up new languages and frameworks. Over the years, I've expanded my skills to include Python, C, Java, and other various development technologies. I genuinely believe that my relentless pursuit of knowledge and improvement sets me apart from others in the field.<br><br>
-    I thrive on solving complex problems and continuously seek out challenging projects to enhance my skills. Whatever the project may be, I bring dedication, creativity, and a keen eye for detail to every task : perfectionism may be my weakest point, but it surely brings in awesome results.
+<div align="justify">
+  <label style="display:block;">
+    Hi there! I'm Lorenzo, a passionate developer who began my coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that first step, my curiosity and enthusiasm for programming have been unstoppable.
+    </br></br>
+    Starting with VBScript gave me a solid foundation, enabling me to swiftly learn new languages and frameworks. Over the years, I've broadened my skills to include Python, C, Java, and various other development technologies. I believe my     relentless pursuit of knowledge and continuous improvement truly set me apart in the field.
+    </br></br>
+    I thrive on solving complex problems and constantly seek out challenging projects to push my skills further. No matter the project, I bring dedication, creativity, and a keen eye for detail to every task. While my perfectionism can be      a double-edged sword, it undoubtedly leads to outstanding results.
   </label>
 </div>
 
