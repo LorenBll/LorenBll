@@ -4,7 +4,7 @@
 
 <div align="justify">
   <label style="display:block;">
-    Hi there! I'm Lorenzo, a passionate developer who began my coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that first step, my curiosity and enthusiasm for programming have been unstoppable.
+    Hi there! I'm Lorenzo, a passionate developer who began his coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that first step, my curiosity and enthusiasm for programming have been unstoppable.
     </br></br>
     Starting with VBScript gave me a solid foundation, enabling me to swiftly learn new languages and frameworks. Over the years, I've broadened my skills to include Python, C, Java, and various other development technologies. I believe my     relentless pursuit of knowledge and continuous improvement truly set me apart in the field.
     </br></br>
