@@ -29,8 +29,8 @@
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenBll&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenBll&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
 </div>
 
 </br>
