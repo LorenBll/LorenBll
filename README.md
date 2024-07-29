@@ -36,5 +36,6 @@
 </br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LorenBll&color=red"/>
+  <img src="https://komarev.com/ghpvc/?username=LorenBll&color=red&style=for-the-badge&label=PROFILE+VIEWS&base=10000"/>
+  <!--   yea lol i cheated   !-->
 </div>
