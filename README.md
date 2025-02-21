@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">My Skills/Languages</h2>
+<h2 align="center">My Tech Stack</h2>
 <div align="center" text-align="justify" text-justify="inter-word">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="150" alt="Python"/>
