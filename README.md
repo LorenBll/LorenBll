@@ -1,3 +1,5 @@
+![](github-snake.svg)
+
 # 💫 About Me
 
 - 💻 CS Student for 5 years
@@ -33,5 +35,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=LorenBll&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](github-snake.svg)
