@@ -1,40 +1,37 @@
-<img width="1000" src="github-snake.svg" alt="snake"/>
+![](github-snake.svg)
 
-<h2 align="center">Who Am I</h2>
+# 💫 About Me
 
-<div align="justify">
-  <label style="display:block;">
-    Hi there! I'm Lorenzo, a passionate developer who began his coding journey in 2020 with Microsoft's Visual Basic Scripting language. From that first step, my curiosity and enthusiasm for programming have been unstoppable.
-    </br></br>
-    Starting with VBScript gave me a solid foundation, enabling me to swiftly learn new languages and frameworks. Over the years, I've broadened my skills to include Python, C, Java, and various other development technologies. I believe my     relentless pursuit of knowledge and continuous improvement truly set me apart in the field.
-    </br></br>
-    I thrive on solving complex problems and constantly seek out challenging projects to push my skills further. No matter the project, I bring dedication, creativity, and a keen eye for detail to every task. While my perfectionism can be      a double-edged sword, it undoubtedly leads to outstanding results.
-  </label>
-</div>
+- 💻 CS Student for 5 years
+- 💻 CS Self-Student for 6 years
+- 🍃 Currently Learning SpringBoot and SQL
+- 🎓 Aspiring to be a Psichiatrist (Yep. CS gave me PTSD)
 
-###
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LorenBll&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">My Tech Stack</h2>
-<div align="center" text-align="justify" text-justify="inter-word">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="150" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="150" alt="C"/>
-  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="150" alt="Assembly Z80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="150" alt="HTML 5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="150" alt="Java"/>
-  
-</div>
+# 💻 Tech Stack
 
-###
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
 
-<h2 align="center">My Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenBll&show_icons=false&theme=github_dark&hide_border=false&layout=compact" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=github_dark&hide_border=false&layout=compact" height="200"/>
-</div>
+# 📊 GitHub Stats
 
-</br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LorenBll&color=red&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=LorenBll&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
