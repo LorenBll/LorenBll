@@ -7,9 +7,6 @@
 - 🍃 Currently Learning SpringBoot and SQL
 - 🎓 Aspiring to be a Psichiatrist (Yep. CS gave me PTSD)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LorenBll&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 # 💻 Tech Stack
 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
