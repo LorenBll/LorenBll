@@ -36,6 +36,6 @@
 # 📊 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=LorenBll&theme=catpuccin&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LorenBll&theme=catpuccin&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=catpuccin&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![LorenBll's Stats](https://github-readme-stats.vercel.app/api?username=LorenBll&theme=blueberry&show_icons=true&hide_border=true&count_private=true)<br/>
+![LorenBll's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LorenBll&theme=blueberry&hide_border=true)<br/>
+![LorenBll's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
