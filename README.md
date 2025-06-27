@@ -4,7 +4,6 @@
 
 - 💻 CS Student for 5 years
 - 💻 CS Self-Student for 6 years
-- 🍃 Currently Learning SpringBoot and SQL
 - 🎓 Aspiring to be a Psichiatrist (Yep. CS gave me PTSD)
 
 # 💻 Tech Stack
