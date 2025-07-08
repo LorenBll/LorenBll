@@ -2,10 +2,10 @@
 
 # 💫 About Me
 
-- 🎒 CS Student for 5 years
-- 🎒 CS Self-Student for 6 years
+- 🎒 Studied Computer Science from 2020 to 2025
+- 🎒 Self-taught in Computer Science since 2020, now pursuing it as a hobby
 - 💻 Independent Developer
-- 🎓 Aspiring to be a Psichiatrist (Yep. CS gave me PTSD)
+- 🎓 Aspiring Psychiatrist (yeah, CS gave me PTSD)
 
 # 💻 Tech Stack
 
