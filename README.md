@@ -2,10 +2,9 @@
 
 # 💫 About Me
 
-- 🎒 Studied Computer Science from 2020 to 2025
-- 🎒 Self-taught in Computer Science since 2019, now pursuing it as a hobby
-- 💻 Independent Developer
-- 🎓 Aspiring Psychiatrist (yeah, CS gave me PTSD)
+- 🎒 Studied Computer Science from 2019 to 2025
+- 🎓 Aspiring Psychiatrist
+- 🎲 Now pursuing Computer Science as a hobby
 
 # 💻 Tech Stack
 
