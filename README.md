@@ -26,6 +26,8 @@
 
 # 📊 GitHub Stats
 
+> ⚠️ Note: If the GitHub Stats below aren’t displaying correctly, it’s due to technical issues with the GitHub stats service, not my repository.  
+
 ![](https://github-readme-stats.vercel.app/api?username=LorenBll&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LorenBll&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenBll&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
