@@ -2,9 +2,9 @@
 
 # 💫 About Me
 
-- 🎒 Studied Computer Science from 2019 to 2025
+- 🎒 Studied Computer Science Institutionally from 2019 to 2025
 - 🎓 Aspiring Psychiatrist
-- 🎲 Now pursuing Computer Science as a hobby
+- 🎲 Now Studying Computer Science as a hobby
 
 # 💻 Tech Stack
 
