@@ -1,11 +1,14 @@
 # 💫 About Me
 
+- 🤿 Into - like, really into - Knowledge Management Systems
+- 🩺 Studying Medicine
 - 🎓 Aspiring Psychiatrist
 - 🎒 Studied Computer Science Institutionally from 2019 to 2025
-- 🎲 Now occasionally studying Computer Science as a hobby
+- ☕ Now occasionally studying Computer Science as a hobby
 
 # 💻 Tech Stack
 
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![MinimalAPI](https://img.shields.io/badge/minimalapi-%23512BD4.svg?style=for-the-badge&logo=c&logoColor=white)
