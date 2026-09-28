@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=lorenbll&color=brightgreen&style=for-the-badge)
+
 # 💫 About Me
 
 - 🤿 Into - like, really into - Knowledge Management Systems
