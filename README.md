@@ -10,7 +10,8 @@
 
 # 💻 Tech Stack
 
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23619AFF.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![MinimalAPI](https://img.shields.io/badge/minimalapi-%23512BD4.svg?style=for-the-badge&logo=c&logoColor=white)
