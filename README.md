@@ -8,7 +8,7 @@
 - 🎒 Studied Computer Science Institutionally from 2019 to 2025
 - ☕ Now occasionally studying Computer Science as a hobby
 
-# 💻 Tech Stack
+# 💻 Tech/Skill Stack
 
 ![Obsidian](https://img.shields.io/badge/obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23619AFF.svg?style=for-the-badge&logo=latex&logoColor=white)
