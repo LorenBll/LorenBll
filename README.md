@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=lorenbll&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=lorenbll&color=blue&style=for-the-badge)
 
 # 💫 About Me
 
